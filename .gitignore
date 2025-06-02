@@ -1,0 +1,16 @@
+# Maven build directory
+/target/
+
+# IntelliJ project files
+/.idea/
+/*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment-specific files
+.env
